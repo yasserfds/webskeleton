@@ -1,11 +1,9 @@
-* {
-    margin: 0;
-    padding: 0;
-}
-
 h1 {
     font-size: 1000;
-    text-align: center;
+}
+
+h2 {
+    font-size: 1000;
 }
 
 strong {
@@ -14,17 +12,6 @@ strong {
 
 p {
     font-size: larger;
-}
-
-.tableau-style {
-    border-collapse: collapse;
-    min-width: 400px;
-    width: auto;
-    box-shadow: 0 5px 50px rgba(0,0,0,0.15);
-    cursor: pointer;
-    margin: 100px auto;
-    /* border: 2px solid midnightblue; */
-    border: 1px solid #ddd;
 }
 
 thead tr {
