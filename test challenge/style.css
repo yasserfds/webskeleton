@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+.header {
+    background-color: aqua;
+    padding: 1rem;
+    text-align: center;
+}
+.leftside {
+    float: left;
+    width: 20%;
+    height: 250px;
+    background-color: rgb(83, 81, 235);
+}
+ul {
+    margin: 0;
+    padding: 10;
+    list-style: none;
+}
+.leftside ul li a {
+    color: aliceblue;
+    text-decoration: none;
+}
+.rightside {
+    float: left;
+    width: 80%;
+    height: 250px;
+    background-color: beige;
+    text-align: center;
+    font-size: 18px;
+}
+.footer {
+    clear: both;
+    background-color: chocolate;
+    text-align: center;
+    font-size: 18px;
+    padding-left: 10px;
+}

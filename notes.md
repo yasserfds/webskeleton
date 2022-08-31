@@ -4,6 +4,7 @@ Pour créer un formulaire on utilise:
 <input></input>
 <select></select>
 <option></option>
+
 <!-- css -->
 class => .
 id => #
