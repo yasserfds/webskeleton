@@ -5,9 +5,26 @@ Pour créer un formulaire on utilise:
 <select></select>
 <option></option>
 
-<!-- css -->
+<!-- Autre HTML5 Balises -->
+<iframe>
+<audio>
+<details>
+<embed>
+<fieldset>
+<figcaption>
+
+<!-- css classes et id -->
 class => .
 id => #
+<!-- css lesson 1 -->
+h1 {
+    text-align: center;
+}
+<!-- css lesson 1 details -->
+h1 => sélecteur
+text-align => propriété
+center => valeur
+
 <!-- css positions -->
 position: static;
 position: relative;
