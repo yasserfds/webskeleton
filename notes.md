@@ -6,9 +6,7 @@ Pour créer un formulaire on utilise:
 <option></option>
 
 <!-- Autre HTML5 Balises -->
-<iframe>
 <audio>
-<details>
 <embed>
 <fieldset>
 <figcaption>
