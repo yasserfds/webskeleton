@@ -8,6 +8,7 @@ Pour créer un formulaire on utilise:
 <!-- Autre HTML5 Balises -->
 <audio>
 <embed>
+<details>
 <fieldset>
 <figcaption>
 
