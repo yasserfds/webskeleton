@@ -1,16 +1,16 @@
 <!-- Formulaire -->
 Pour créer un formulaire on utilise:
-<label></label>
-<input></input>
-<select></select>
-<option></option>
+label
+input
+select
+option
 
 <!-- Autre HTML5 Balises -->
-<audio>
-<embed>
-<details>
-<fieldset>
-<figcaption>
+audio
+embed
+details
+fieldset
+figcaption
 
 <!-- css classes et id -->
 class => .

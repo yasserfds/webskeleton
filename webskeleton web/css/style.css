@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;   
+    background: #282A35 !important;
+    color: white !important;
+}
+
+.navbar {
+    text-align: justify;
+    background-color: white;
+    padding: 15px;
+    font-size: 1.5rem;
+}
+nav a {
+    background: none;
+    margin-left: 30px;
+    justify-content: space-between;
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: burlywood;
+}
+#buttons {
+    float: right;
+}
+.main {
+    margin: 200px auto;
+    text-align: center;
+}
+.main h1 {
+    font-size: 60px;
+}
+.main h2 {
+    font-size: 30px;
+}
