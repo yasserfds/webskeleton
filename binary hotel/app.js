@@ -1,3 +1,5 @@
+const btn = document.getElementsByTagName("button");
+
 const fadeOut = () => {
     const loaderWrapper = document.querySelector('.wrapper');
     loaderWrapper.classList.add('fade')
