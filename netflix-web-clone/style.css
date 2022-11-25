@@ -1,0 +1,30 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: transparent;
+    text-decoration: none;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav select {
+    border: none;
+    padding: 10px;
+    background-color: transparent;
+}
+
+nav select option {
+    background-color: grey;
+    opacity: 1.5;
+}
+
+header nav a button {
+    border: none;
+    text-align: flex-end;
+    padding: 10px;
+    background-color: red;
+    color: aliceblue;
+}
