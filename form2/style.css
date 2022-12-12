@@ -92,3 +92,7 @@ body {
     color:  #f9f9f9;
     font-weight: 600;
 }
+
+a {
+    text-decoration: none;
+}
